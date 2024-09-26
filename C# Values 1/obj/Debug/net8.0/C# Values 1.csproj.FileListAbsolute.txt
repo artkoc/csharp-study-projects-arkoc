@@ -1,0 +1,15 @@
+C:\c#\csharp-study-projects-arkoc\C# Values 1\bin\Debug\net8.0\C# Values 1.exe
+C:\c#\csharp-study-projects-arkoc\C# Values 1\bin\Debug\net8.0\C# Values 1.deps.json
+C:\c#\csharp-study-projects-arkoc\C# Values 1\bin\Debug\net8.0\C# Values 1.runtimeconfig.json
+C:\c#\csharp-study-projects-arkoc\C# Values 1\bin\Debug\net8.0\C# Values 1.dll
+C:\c#\csharp-study-projects-arkoc\C# Values 1\bin\Debug\net8.0\C# Values 1.pdb
+C:\c#\csharp-study-projects-arkoc\C# Values 1\obj\Debug\net8.0\C# Values 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\csharp-study-projects-arkoc\C# Values 1\obj\Debug\net8.0\C# Values 1.AssemblyInfoInputs.cache
+C:\c#\csharp-study-projects-arkoc\C# Values 1\obj\Debug\net8.0\C# Values 1.AssemblyInfo.cs
+C:\c#\csharp-study-projects-arkoc\C# Values 1\obj\Debug\net8.0\C# Values 1.csproj.CoreCompileInputs.cache
+C:\c#\csharp-study-projects-arkoc\C# Values 1\obj\Debug\net8.0\C# Values 1.sourcelink.json
+C:\c#\csharp-study-projects-arkoc\C# Values 1\obj\Debug\net8.0\C# Values 1.dll
+C:\c#\csharp-study-projects-arkoc\C# Values 1\obj\Debug\net8.0\refint\C# Values 1.dll
+C:\c#\csharp-study-projects-arkoc\C# Values 1\obj\Debug\net8.0\C# Values 1.pdb
+C:\c#\csharp-study-projects-arkoc\C# Values 1\obj\Debug\net8.0\C# Values 1.genruntimeconfig.cache
+C:\c#\csharp-study-projects-arkoc\C# Values 1\obj\Debug\net8.0\ref\C# Values 1.dll
